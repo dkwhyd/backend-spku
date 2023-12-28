@@ -1,0 +1,24 @@
+{
+  "name": "backend-spku",
+  "version": "1.0.0",
+  "description": "Backend Sistem Pemantauan Kualitas Udara",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkwhyd/backend-spku.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkwhyd/backend-spku/issues"
+  },
+  "homepage": "https://github.com/dkwhyd/backend-spku#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2"
+  }
+}
